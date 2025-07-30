@@ -3,6 +3,8 @@ title: Your Name
 layout: default
 ---
 
+<link rel="stylesheet" href="style.css">
+
 # 🎬 Your Name
 
 **Film Director / Editor / Cinematographer**  
